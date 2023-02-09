@@ -95,7 +95,7 @@ int main()
     printf("Enter the number for fibonacci sequence:");
     scanf("%i",&n);
     iterativ(n);
-    //1152445printf("metoda 2: %lli\n",recursiv(n));
+    //printf("metoda 2: %lli\n",recursiv(n));
     //printf("metoda 3: %lli\n",met3(n));
     //printf("metoda 4: %lli\n",met4(n));
     //printf("metoda 5: %lli\n",met5(n));
